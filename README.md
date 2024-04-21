@@ -14,3 +14,6 @@ URL.
 Email Address.
 Secret Client Code.
 And many more.
+
+![QR Code Image](https://github.com/Sarthak1008/Generate-the-QR-Code-using-Spring-Boot-Application/raw/main/src/main/resources/QRCode.png)
+
